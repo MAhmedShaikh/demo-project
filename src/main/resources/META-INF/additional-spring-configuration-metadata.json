@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "CoinAPI.host",
+    "type": "java.lang.String",
+    "description": "A description for 'CoinAPI.host'"
+  },
+  {
+    "name": "CureencyAPI.host",
+    "type": "java.lang.String",
+    "description": "A description for 'CureencyAPI.host'"
+  },
+  {
+    "name": "CurrencyAPI.host",
+    "type": "java.lang.String",
+    "description": "A description for 'CurrencyAPI.host'"
+  },
+  {
+    "name": "Base.currency",
+    "type": "java.lang.String",
+    "description": "A description for 'Base.currency'"
+  },
+  {
+    "name": "Coin.type",
+    "type": "java.lang.String",
+    "description": "A description for 'Coin.type'"
+  },
+  {
+    "name": "Base.currencies",
+    "type": "java.lang.String",
+    "description": "A description for 'Base.currencies'"
+  }
+]}
